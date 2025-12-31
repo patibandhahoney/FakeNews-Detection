@@ -30,30 +30,6 @@ This system predicts whether news is **Real** or **Fake**, shows **dataset-wide 
 - **Machine Learning Model:** Logistic Regression / Naive Bayes  
 - **Dataset Format:** CSV  
 
----
-
-## 📂 Project Structure
-
-Fake-News-Detection/
-│
-├── fake_news_dataset.csv
-├── fake.py
-├── requirements.txt
-└── README.md
-
----
-
-## 📊 Dataset Description
-
-The dataset contains news articles with labels:
-
-| Column Name | Description |
-|------------|------------|
-| text | News article content |
-| label | 0 = Fake News, 1 = Real News |
-
----
-
 ## 🧠 How the System Works
 
 1. Load CSV dataset  
@@ -86,3 +62,4 @@ cd Fake-News-Detection
 ## Show output snapshot
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/27b64f12-8638-42f0-9dea-b059f0c65f76" />
+#### Graph representation
