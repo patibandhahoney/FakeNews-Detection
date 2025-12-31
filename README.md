@@ -83,3 +83,6 @@ The dataset contains news articles with labels:
 git clone https://github.com/your-username/Fake-News-Detection.git
 cd Fake-News-Detection
 ```
+## Show output snapshot
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/27b64f12-8638-42f0-9dea-b059f0c65f76" />
