@@ -62,4 +62,5 @@ cd Fake-News-Detection
 ## Show output snapshot
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/27b64f12-8638-42f0-9dea-b059f0c65f76" />
-#### Graph representation
+### Graph representation
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c9d87478-d8e0-47c0-ae6f-7ac6b37433a9" />
